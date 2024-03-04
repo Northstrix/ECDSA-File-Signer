@@ -1,0 +1,17 @@
+C:\Users\ok\source\repos\ECDSA File Signer\ECDSA File Signer\bin\Debug\net6.0-windows\ECDSA File Signer.exe
+C:\Users\ok\source\repos\ECDSA File Signer\ECDSA File Signer\bin\Debug\net6.0-windows\ECDSA File Signer.deps.json
+C:\Users\ok\source\repos\ECDSA File Signer\ECDSA File Signer\bin\Debug\net6.0-windows\ECDSA File Signer.runtimeconfig.json
+C:\Users\ok\source\repos\ECDSA File Signer\ECDSA File Signer\bin\Debug\net6.0-windows\ECDSA File Signer.dll
+C:\Users\ok\source\repos\ECDSA File Signer\ECDSA File Signer\bin\Debug\net6.0-windows\ECDSA File Signer.pdb
+C:\Users\ok\source\repos\ECDSA File Signer\ECDSA File Signer\obj\Debug\net6.0-windows\ECDSA File Signer.csproj.AssemblyReference.cache
+C:\Users\ok\source\repos\ECDSA File Signer\ECDSA File Signer\obj\Debug\net6.0-windows\ECDSA_File_Signer.Form1.resources
+C:\Users\ok\source\repos\ECDSA File Signer\ECDSA File Signer\obj\Debug\net6.0-windows\ECDSA File Signer.csproj.GenerateResource.cache
+C:\Users\ok\source\repos\ECDSA File Signer\ECDSA File Signer\obj\Debug\net6.0-windows\ECDSA File Signer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ok\source\repos\ECDSA File Signer\ECDSA File Signer\obj\Debug\net6.0-windows\ECDSA File Signer.AssemblyInfoInputs.cache
+C:\Users\ok\source\repos\ECDSA File Signer\ECDSA File Signer\obj\Debug\net6.0-windows\ECDSA File Signer.AssemblyInfo.cs
+C:\Users\ok\source\repos\ECDSA File Signer\ECDSA File Signer\obj\Debug\net6.0-windows\ECDSA File Signer.csproj.CoreCompileInputs.cache
+C:\Users\ok\source\repos\ECDSA File Signer\ECDSA File Signer\obj\Debug\net6.0-windows\ECDSA File Signer.dll
+C:\Users\ok\source\repos\ECDSA File Signer\ECDSA File Signer\obj\Debug\net6.0-windows\refint\ECDSA File Signer.dll
+C:\Users\ok\source\repos\ECDSA File Signer\ECDSA File Signer\obj\Debug\net6.0-windows\ECDSA File Signer.pdb
+C:\Users\ok\source\repos\ECDSA File Signer\ECDSA File Signer\obj\Debug\net6.0-windows\ECDSA File Signer.genruntimeconfig.cache
+C:\Users\ok\source\repos\ECDSA File Signer\ECDSA File Signer\obj\Debug\net6.0-windows\ref\ECDSA File Signer.dll

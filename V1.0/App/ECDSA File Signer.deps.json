@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ECDSA File Signer/1.0.0": {
+        "runtime": {
+          "ECDSA File Signer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ECDSA File Signer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
